@@ -16,8 +16,13 @@ The upsides of this are enormous; being able to instantly cross-reference ideas 
 
 ## Implementation and user guide
 
-Everything is written in Python, and the only dependency is [spacy](https://spacy.io/):  
-`pip3 install spacy`
+Everything is written in Python, and the only dependencies are [spacy](https://spacy.io/) and dateutil  
+`pip3 install spacy`  
+`pip3 install dateutil`
+
+If you haven't worked with spacy before, you'll also need to install their english-language NER model:  
+`python -m spacy download en_core_web_sm`
+
 
 Everything else is plug 'n' play, with the user specifying a .txt file, the name of the text and the author.  
 ```
