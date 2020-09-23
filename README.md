@@ -4,7 +4,7 @@ RoamNER has joined forces with the RoamingNERd team, and we're actively working 
 
 
 
-# RoamNER
+# RoamNER (Original Writeup)
 _Testing an implementation of Named-Entity Recognition integration for Roam Research_
 
 
