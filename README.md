@@ -1,3 +1,9 @@
+# RoamNER has moved! (23/9/2020)
+
+RoamNER has joined forces with the RoamingNERd team, and we're actively working on **RoamNERd**, a browser-based NER service for Roam. Follow our [new Repo](https://github.com/ilenterman/RoamNERd), and check out our [public Roam devlog](https://roamresearch.com/#/app/roamNERD_test)
+
+
+
 # RoamNER
 _Testing an implementation of Named-Entity Recognition integration for Roam Research_
 
